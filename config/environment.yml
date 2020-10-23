@@ -1,0 +1,7 @@
+name: hydroenv
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn

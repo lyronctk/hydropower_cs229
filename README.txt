@@ -1,1 +1,0 @@
-### Hydropower Project - CS229 
