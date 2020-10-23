@@ -2,4 +2,5 @@
 
 ## Getting Started
 `conda env create -f config/environment.yml`
+
 `conda active hydroenv`
