@@ -62,10 +62,12 @@ def write_matches_to_csv(matches):
 
 def main():
     plants = load_base()
-    lakes = load_lakes()
+    print(plants)
 
-    matches = match_plants_to_lakes(plants, lakes)
-    write_matches_to_csv(matches)
+    # lakes = load_lakes()
+
+    # matches = match_plants_to_lakes(plants, lakes)
+    # write_matches_to_csv(matches)
 
 
 if __name__ == '__main__':
